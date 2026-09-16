@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a sophisticated editorial platform that enhances storytelling with dynamic layouts and impactful photography for institutional and NGO audiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
